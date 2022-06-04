@@ -1,4 +1,4 @@
-package remove_duplicates_from_sorted_array;
+package algorithms.remove_duplicates_from_sorted_array;
 
 class Solution {
     public int removeDuplicates(int[] nums) {

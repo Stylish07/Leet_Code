@@ -1,4 +1,4 @@
-package longest_common_prefix;
+package algorithms.longest_common_prefix;
 
 class Solution {
     public String longestCommonPrefix(String[] strs) {

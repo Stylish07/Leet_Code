@@ -1,4 +1,4 @@
-package palindrome_number;
+package algorithms.palindrome_number;
 
 class Solution {
     public boolean isPalindrome(int x) {
