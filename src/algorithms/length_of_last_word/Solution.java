@@ -1,4 +1,4 @@
-package length_of_last_word;
+package algorithms.length_of_last_word;
 
 public class Solution {
 	public int lengthOfLastWord(String s) {
